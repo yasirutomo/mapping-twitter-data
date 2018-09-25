@@ -12,4 +12,4 @@
 
 ## Sample Output
 sample heatmap.
-![user interface](./outputheatmap.jpg)
+![user interface](./outputheatmap.png)
